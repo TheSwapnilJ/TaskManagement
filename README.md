@@ -67,7 +67,7 @@ TaskManagementSystem/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/TaskManagementSystem.git
+git clone https://github.com/TheSwapnilJ/TaskManagement.git
 cd TaskManagementSystem
 ```
 

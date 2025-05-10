@@ -67,7 +67,7 @@ TaskManagementSystem/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/TheSwapnilJ/TaskManagement.git
+git clone https://github.com/TheSwapnilJ/TaskManagement1.git
 cd TaskManagementSystem
 ```
 
@@ -137,6 +137,4 @@ Pull requests are welcome. For major changes, please open an issue first.
 
 ---
 
-## 📄 License
 
-[MIT](LICENSE)
